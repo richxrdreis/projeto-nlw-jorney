@@ -4,11 +4,11 @@
 
 ## Tecnologias 🚀
 
-- Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-• HTML
-• CSS
-• JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ![image](https://github.com/user-attachments/assets/7e1807c8-84cf-48db-a545-a089abe8f47c)
 
