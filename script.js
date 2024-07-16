@@ -15,8 +15,8 @@ const formatador = (data) => {
 
 // object {}
 const atividade = {
-  nome: "Almoço",
-  data: new Date("2024-07-08 10:00"),
+  nome: "Passeio de Helicóptero",
+  data: new Date("2024-07-08 12:00"),
   finalizada: true,
 };
 
@@ -24,13 +24,13 @@ const atividade = {
 let atividades = [
   atividade,
   {
-    nome: "Academia em grupo",
-    data: new Date("2024-07-09 12:00"),
+    nome: "Visita ao Cristo Redentor",
+    data: new Date("2024-07-09 10:30"),
     finalizada: false,
   },
   {
-    nome: "Gamming session",
-    data: new Date("2024-07-09 16:00"),
+    nome: "Café da Manhã",
+    data: new Date("2024-07-09 08:00"),
     finalizada: true,
   },
 ];
